@@ -1,0 +1,3 @@
+joystick.c:22:6:joystick_init	8	static
+joystick.c:28:13:joystick_set_value	4	static
+joystick.c:55:6:HAL_ADC_ConvCpltCallback	16	static
